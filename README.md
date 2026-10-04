@@ -1,5 +1,4 @@
 ﻿# P2_SemaforoLeds
-# P2_SemaforoLeds
 # Práctica: Simulación de Semáforo con GPIO en Raspberry Pi
 
 Este proyecto consiste en la creación de un semáforo básico utilizando una Raspberry Pi y tres LEDs (Rojo, Amarillo y Verde). La práctica se realizó de forma remota: el entorno de desarrollo fue una máquina virtual con **Fedora** en **VirtualBox**, desde la cual se estableció una conexión **SSH** hacia la Raspberry Pi para ejecutar el código en Python.
@@ -59,9 +58,13 @@ o	Rojo: Se enciende el LED Rojo durante 10 segundos.
 En la terminal se observó el siguiente flujo:
 1.	Activación del entorno (8S11).
 2.	Creación del script 
+
 ![Captura de pantalla](images/terminal.jpeg)
-3.	Ejecución del script con python semaforoLeds.py.
-4.	Impresión en consola de la secuencia: LED VERDE, LED AMARILLO, LED ROJO.
+
+4.	Ejecución del script con python semaforoLeds.py.
+5.	Impresión en consola de la secuencia: LED VERDE, LED AMARILLO, LED ROJO.
+
 ![Captura de pantalla](images/nano.jpeg)
-5.	Interrupción manual con Ctrl+C y mensaje de limpieza exitosa.
-6. Encendido de Leds exitoso
+
+7.	Interrupción manual con Ctrl+C y mensaje de limpieza exitosa.
+8. Encendido de Leds exitoso
