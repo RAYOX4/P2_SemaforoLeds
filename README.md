@@ -68,3 +68,9 @@ En la terminal se observó el siguiente flujo:
 
 7.	Interrupción manual con Ctrl+C y mensaje de limpieza exitosa.
 8. Encendido de Leds exitoso
+
+![Captura de pantalla](images/1.jpeg)
+
+![Captura de pantalla](images/2.jpeg)
+
+![Captura de pantalla](images/3.jpeg)
